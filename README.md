@@ -10,7 +10,7 @@ There are four methods to get started with OpenShift v3:
   - Running a virtual machine with Vagrant
   - Starting a Docker container
   - Downloading the binary
-  - Running an Ansible playbook
+  - Running an Ansible playbook  
 
 #### Running a virtual machine with Vagrant
 
